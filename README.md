@@ -90,11 +90,8 @@ class CurrentWork:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhgualdron&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhgualdron&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhgualdron&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800)
+<!-- Metrics by Lowlighter (Robust alternative) -->
+![Metrics](https://metrics.lecoq.io/mhgualdron?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FBogota&config.twemoji=true&style=classic&theme=tokyonight)
 
 </div>
 
