@@ -19,7 +19,7 @@
 
 I am an **AI Engineer** and **Data Scientist** passionate about building intelligent systems. I specialize in the design and deployment of solutions based on **Generative AI**, **Intelligent Automation**, and **MLOps**.
 
-<img align="right" width="120" src="./Imgs/University_of_Los_Andes_logo.svg.png"/>
+<img align="right" width="120" src="./Imgs/andes.png"/>
 
 🎓 **M.Sc. in Artificial Intelligence**
 Universidad de los Andes • *Expected 2026*
