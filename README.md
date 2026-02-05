@@ -90,11 +90,11 @@ class CurrentWork:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhgualdron&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhgualdron&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhgualdron&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhgualdron&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhgualdron&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhgualdron&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=1800)
 
 </div>
 
