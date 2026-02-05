@@ -19,10 +19,10 @@
 
 I am an **AI Engineer** and **Data Scientist** passionate about building intelligent systems. I specialize in the design and deployment of solutions based on **Generative AI**, **Intelligent Automation**, and **MLOps**.
 
-<img align="right" width="120" src="https://avatars.githubusercontent.com/u/10850284?s=200&v=4"/>
+<img align="right" width="120" src="./Imgs/University_of_Los_Andes_logo.svg.png"/>
 
-🎓 **M.Sc. in Artificial Intelligence**  
-Universidad de los Andes • *Expected 2026*  
+🎓 **M.Sc. in Artificial Intelligence**
+Universidad de los Andes • *Expected 2026*
 🏆 Coomeva Group Excellence Scholarship
 
 <br clear="right"/>
@@ -90,10 +90,9 @@ class CurrentWork:
 
 <div align="center">
   
-<!-- Usando mirror de Rickstaa para mayor estabilidad -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhgualdron&show_icons=true&theme=tokyonight&hide_border=true&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhgualdron&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhgualdron&layout=compact&theme=tokyonight&hide_border=true&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhgualdron&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhgualdron&theme=tokyonight&hide_border=true&background=0D1117)
 
